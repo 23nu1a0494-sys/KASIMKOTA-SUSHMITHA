@@ -1,0 +1,6 @@
+{
+  "name": "Embedded Learning Hub",
+  "description": "Learn Embedded Systems and RTOS from basics to advanced with interactive modules, exam prep, MCQs, and programming practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
